@@ -45,7 +45,7 @@
 #### Step 1: identify all NOUNS in the specs
 Solution: flowers, users, orders
 
-#### Step 2: think of all ADJECTIVES properties nouns
+#### Step 2: think of all ADJECTIVES(properties) of the nouns
 Solution:
  a. Flower
  - color
